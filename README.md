@@ -14,9 +14,9 @@
   
    * start the questions routine game. This routine have 4 parts, if you can´t guess:
    
-      1. shows the text and ask who is the author (fist attempt) :thought_balloon: You have 4 attempts, don´t worry 
-      2. shows the birthday and the birthplace of the author
-      3. shows the first letter of the author´s first name
+      1. shows the text and ask who is the author (first attempt) :thought_balloon: You have 4 attempts, don´t worry :sunglasses: 
+      2. shows the birthday and the birthplace of the author (second attempt) :open_mouth: now you have 3 attempts, think better! :sweat:
+      3. shows the first letter of the author´s first name (third attempt) :stop_sign: your attempts are going to end!!! :tired_face:
       4. shows the first letter of the author´s last name
      
   If you guess before your attempts end, the loop will break, and you will win the game!!!
