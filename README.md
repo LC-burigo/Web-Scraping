@@ -14,18 +14,18 @@
   
    * start the questions routine game. This routine have 4 parts, if you can´t guess:
    
-      1. shows the text and ask who is the author (first attempt) :thought_balloon: You have 4 attempts, don´t worry :sunglasses: 
-      2. shows the birthday and the birthplace of the author (second attempt) :open_mouth: now you have 3 attempts, think better! :sweat:
-      3. shows the first letter of the author´s first name (third attempt) :stop_sign: your attempts are going to end!!! :tired_face:
-      4. shows the first letter of the author´s last name
+      1. shows the text and ask who is the author; (first attempt) :thought_balloon: You have 4 attempts, don´t worry :sunglasses: 
+      2. shows the birthday and the birthplace of the author; (second attempt) :open_mouth: now you have 3 attempts, think better!  :anger: :sweat:
+      3. shows the first letter of the author´s first name; (third attempt) :stop_sign: your attempts are going to end!!! :tired_face:
+      4. shows the first letter of the author´s last name. (fourth and last attempt) :warning: Nooo, you have to guess now, or you will lose!!! :man_judge: 
      
-  If you guess before your attempts end, the loop will break, and you will win the game!!!
-  If you can´t guess before your attempts end, the loop will break, and you will lose the game!!!
+  :heavy_exclamation_mark: If you guess before your attempts end, the loop will break, and you will win the game!!! :trophy: :smiling_face_with_three_hearts: \
+  :heavy_exclamation_mark: If you can´t guess before your attempts end, the loop will break, and you will lose the game!!! :sob:
   
   
 **3. Start the game again**
 
-  Here the code allows you to restart the game, if you want
+  Here the code allows you to restart the game, if you want :muscle:
 
 
       
