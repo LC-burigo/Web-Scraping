@@ -1,6 +1,13 @@
 # Web Scraping 
 ## Guess Game with Web Scraping. With the given quotes, guess the author who said that:interrobang:
 
+PACKAGES to install
+
+|                         Request                          |                            BeautifulSoup                            |                     CSV                   |
+|----------------------------------------------------------|-------------------------------------------------------------------- |-------------------------------------------|
+|[pip install Requests](https://pypi.org/project/requests/)|[pip install BeautifulSoup](https://pypi.org/project/beautifulsoup4/)|[pip install CSV](https://pypi.org/project/python-csv/)|
+
+
 **1. Scrape the quotes**
 
   Here the function "scrape_quotes" have two functionalities:
