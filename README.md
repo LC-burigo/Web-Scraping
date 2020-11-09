@@ -1,5 +1,7 @@
 # Web Scraping 
-
+<a href="https://pypi.org/project/Pillow/"><img
+                alt="Newest PyPI version"
+                src="https://img.shields.io/pypi/v/pillow.svg"></a>
 ## Guess Game with Web Scraping. With the given quotes, guess the author who said that:interrobang:
 
 :arrow_right: *PACKAGES to install*
